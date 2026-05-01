@@ -1,4 +1,4 @@
-# RF_phage_data_assignment
+# Predicting STEC Strain Origin by Random Forest Classification
 
 This repository contains all of the necessary scripts/models for the E. coli assignment, where I created a series of random forest classifiers to predict the origin of Shiga-toxigenic E. coli samples at the region and country level.
 
