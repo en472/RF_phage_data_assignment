@@ -1,0 +1,16 @@
+﻿country,precision,recall,f1-score,support
+Asia,1,0.57,0.73,7
+Australasia,NA,NA,NA,NA
+C. America,0,0,0,2
+C. Europe,0,0,0,7
+M. East,0.63,0.7,0.67,44
+N. Africa,0.33,0.05,0.09,19
+N. America,0,0,0,1
+N. Europe,0,0,0,4
+S. Europe,0.45,0.24,0.31,42
+Subsaharan Africa,1,1,1,2
+UK,0.76,0.9,0.82,267
+,,,,
+accuracy,,,0.73,395
+macro avg,0.42,0.35,0.36,395
+weighted avg,0.67,0.73,0.69,395
